@@ -1,0 +1,21 @@
+#navbar{
+    position: sticky;
+    top: 0px;
+    z-index: 1;
+}
+#content-container{
+    min-height: 78vh;
+}
+#footer{
+    position: sticky;
+    bottom: 0px;
+    z-index: 1;
+}
+
+a{
+    cursor: pointer;
+}
+
+a:hover{
+    text-decoration: none;
+}
